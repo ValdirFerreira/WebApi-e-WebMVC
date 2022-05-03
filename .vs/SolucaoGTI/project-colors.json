@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5e9f19b-f96a-4148-a25b-b458b451fe21": {
+      "ProjectGuid": "b5e9f19b-f96a-4148-a25b-b458b451fe21",
+      "DisplayName": "WebMVC",
+      "ColorIndex": 0
+    },
+    "fe300069-e708-424a-8a06-993ed98e262b": {
+      "ProjectGuid": "fe300069-e708-424a-8a06-993ed98e262b",
+      "DisplayName": "WebApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
